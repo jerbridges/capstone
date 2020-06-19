@@ -8,4 +8,4 @@ CS499 Capstone ePortfolio
 
 [Algorithm and Data Structure Artifact](https://github.com/jerbridges/Artifact-2)
 
-[Database Artifact](https://github.com/jerbridges/Artifact-3)
+[Database Artifact](https://github.com/jerbridges/Artifact-3)[(Narrative)](https://github.com/jerbridges/Artifact-3/blob/master/README.md)
