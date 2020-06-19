@@ -1,11 +1,11 @@
 # Welcome to Jeremy's GitHub page
 
-Please bookmark and check back for future content
+CS499 Capstone ePortfolio
 
 [Code review on Youtube](https://youtu.be/cma38WHKvbE)
 
-[Software Design and Engineering Artifact](https://github.com/jerbridges/FinalProject)
+[Software Design and Engineering Artifact](https://github.com/jerbridges/Artifact-1)
 
-[Algorithm and Data Structure Artifact](https://github.com/jerbridges/AuthSystem)
+[Algorithm and Data Structure Artifact](https://github.com/jerbridges/Artifact-2)
 
-[Database Artifact]()
+[Database Artifact](https://github.com/jerbridges/Artifact-3)
