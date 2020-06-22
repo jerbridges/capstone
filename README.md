@@ -2,7 +2,7 @@
 
 CS499 Capstone ePortfolio
 
-[Self Assessment] (https://github.com/jerbridges/capstone/blob/master/self-assessment.md)
+[Self Assessment](https://github.com/jerbridges/capstone/blob/master/self-assessment.md)
 
 [Code review on Youtube](https://youtu.be/cma38WHKvbE)
 
