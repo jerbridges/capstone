@@ -1,6 +1,6 @@
 # Welcome to Jeremy's GitHub page
 
-CS499 Capstone ePortfolio
+## CS499 Capstone ePortfolio
 
 [Self Assessment](https://github.com/jerbridges/capstone/blob/master/self-assessment.md)
 
